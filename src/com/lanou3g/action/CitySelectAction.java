@@ -18,6 +18,9 @@ public class CitySelectAction extends ActionSupport {
     //测试一下,存储大区的集合
 
     private List<Area> areaList;
+
+
+    //添加了功能
     //定义变量用来选择是哪个大区
     private int index;
     private List<Server> servers;
